@@ -25,7 +25,7 @@ SECRET_KEY = 'bn34k0n(o$(%gn#8z-9h%)jab&_8nsjr)=@r$p9aah8nk08pcb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'rentalcar.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ZIKRIE.pythonanywhere.com']
 
 
 # Application definition
